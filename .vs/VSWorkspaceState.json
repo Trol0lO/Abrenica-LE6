@@ -8,9 +8,9 @@
     "\\frontend\\src\\app\\components\\list-posts",
     "\\frontend\\src\\app\\components\\login-page",
     "\\frontend\\src\\app\\components\\post-detail",
-    "\\frontend\\src\\app\\components\\register-page",
+    "\\frontend\\src\\app\\models",
     "\\frontend\\src\\services"
   ],
-  "SelectedNode": "\\frontend\\src\\app\\components\\register-page\\register-page.component.ts",
+  "SelectedNode": "\\frontend\\src\\app\\components\\post-detail\\post-detail.component.ts",
   "PreviewInSolutionExplorer": false
 }
